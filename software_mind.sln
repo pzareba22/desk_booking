@@ -1,0 +1,27 @@
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tables", "Tables\Tables.csproj", "{23970D65-62F4-4F2D-AF83-37BB730BF625}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tables.Test", "Tables.Test\Tables.Test.csproj", "{E68A27AF-BA27-4C88-BD3F-87FF905ADB60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23970D65-62F4-4F2D-AF83-37BB730BF625}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23970D65-62F4-4F2D-AF83-37BB730BF625}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23970D65-62F4-4F2D-AF83-37BB730BF625}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23970D65-62F4-4F2D-AF83-37BB730BF625}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E68A27AF-BA27-4C88-BD3F-87FF905ADB60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E68A27AF-BA27-4C88-BD3F-87FF905ADB60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E68A27AF-BA27-4C88-BD3F-87FF905ADB60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E68A27AF-BA27-4C88-BD3F-87FF905ADB60}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
